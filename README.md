@@ -5,7 +5,7 @@
 ### Author: Morgan T Shaw
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/morgan-401-advanced-javascript/lab32/pull/1)
 * [front-end](http://xyz.com) (when applicable)
 
 #### Running the app
